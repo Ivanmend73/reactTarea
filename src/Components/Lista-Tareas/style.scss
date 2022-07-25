@@ -1,0 +1,12 @@
+@import "../../Styles/Variables.scss";
+
+.tareaContainer {
+    background-color: $violeta_claro;
+    overflow-y: scroll;
+    width: 550px;
+    height: 100vh;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
