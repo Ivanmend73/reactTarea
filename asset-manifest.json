@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactTarea/static/css/main.8d1540a1.css",
+    "main.js": "/reactTarea/static/js/main.36c82dce.js",
+    "static/js/787.b472a848.chunk.js": "/reactTarea/static/js/787.b472a848.chunk.js",
+    "index.html": "/reactTarea/index.html",
+    "main.8d1540a1.css.map": "/reactTarea/static/css/main.8d1540a1.css.map",
+    "main.36c82dce.js.map": "/reactTarea/static/js/main.36c82dce.js.map",
+    "787.b472a848.chunk.js.map": "/reactTarea/static/js/787.b472a848.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d1540a1.css",
+    "static/js/main.36c82dce.js"
+  ]
+}
